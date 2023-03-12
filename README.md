@@ -1,6 +1,6 @@
 # Research on Image Generation Algorithm based on Variational Auto-Encoder
 
-Variational Auto-Encoder is one of the most widely used generative models in unsupervised
+Abstract: Variational Auto-Encoder is one of the most widely used generative models in unsupervised
 learning, and is a variant of Auto-Encoder. VAE can effectively encode high-dimensional image data
 into a distribution of low-dimensional features, then obtain the feature vector by sampling and use it
 to generate new samples, which has important application prospects in the fields of image generation
